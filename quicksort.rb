@@ -7,7 +7,7 @@ class Quicksort
   
     # finding pivot point
 
-    mid_index = (arr.length - 1)/2
+    mid_index = (arr.length - 1) / 2
     pivot_point = arr[mid_index]
     arr1 = []
     arr2 = []
